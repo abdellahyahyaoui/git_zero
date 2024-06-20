@@ -1,4 +1,5 @@
-```eslint
+```
+eslint
 liveserver
 prettier
 markdown
