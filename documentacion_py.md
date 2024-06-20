@@ -1,4 +1,8 @@
-```
+```eslint
+liveserver
+prettier
+markdown
+devcamp
 Secuencia de Escape	Descripción
 \n	Nueva línea
 \t	Tabulación horizontal
